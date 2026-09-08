@@ -1,0 +1,41 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\shettn\\Documents\\project 1\\files (1)\\roommate-finder\\roommate-finder\\blockchain\\contracts\\RoommateRegistry.sol": {
+      "lastModificationDate": 1788880092719,
+      "contentHash": "2613dcbe8d107cde843ddd89de380d4a",
+      "sourceName": "contracts/RoommateRegistry.sol",
+      "solcConfig": {
+        "version": "0.8.24",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.20"
+      ],
+      "artifacts": [
+        "RoommateRegistry"
+      ]
+    }
+  }
+}
